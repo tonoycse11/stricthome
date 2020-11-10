@@ -1,0 +1,2 @@
+# stricthome
+strict
